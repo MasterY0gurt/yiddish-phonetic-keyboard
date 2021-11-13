@@ -1,5 +1,6 @@
 // Yiddish Keyboard Layout
 // Alpha version 1.0
+// Source https://github.com/MasterY0gurt/yiddish-phonetic-keyboard
 // To Do: Niqqud Support
 
 default partial alphanumeric_keys
