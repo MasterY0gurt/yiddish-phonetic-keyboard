@@ -8,9 +8,13 @@ $ cd yiddish-phonetic-keyboard
 
 $ cd Linux
 
+
+
 With bash shell:
 
 sudo ./install.sh
+
+
 
 With other shell:
 
