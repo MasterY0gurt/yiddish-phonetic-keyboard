@@ -12,10 +12,10 @@ $ cd Linux
 
 With bash shell:
 
-sudo ./install.sh
+    sudo ./install.sh
 
 
 
 With other shell:
 
-sudo bash ./install.sh
+    sudo bash ./install.sh
