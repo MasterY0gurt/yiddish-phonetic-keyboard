@@ -1,6 +1,6 @@
 # Instructions
 
-# Installation:
+Installation:
 
 $ git clone https://github.com/MasterY0gurt/yiddish-phonetic-keyboard.git
 
