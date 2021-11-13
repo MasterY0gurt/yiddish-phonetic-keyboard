@@ -8,7 +8,7 @@ xkb_symbols "yiddish" {
 
     name[Group1]= "Yiddish";
     key.type = "FOUR_LEVEL_SEMIALPHABETIC";
-    // lower letter row
+    // bottom letter row
 
     key <AB01> { [ hebrew_chet                                                      ] }; // Chet
     key <AB02> { [ U05F1,           UFB4B                                           ] }; // Yiddish Vav Yod
@@ -32,7 +32,7 @@ xkb_symbols "yiddish" {
     key <AC09> { [ hebrew_lamed                                                     ] }; // Lamed
 
 
-    // high letter row
+    // top letter row
     key <AD01> { [ hebrew_shin,     UFB2B                                           ] }; // Shin + Sin
     key <AD02> { [ U05F0                                                            ] }; // Yiddish Double Vav
     key <AD03> { [ hebrew_ayin                                                      ] }; // Ayin
@@ -44,7 +44,7 @@ xkb_symbols "yiddish" {
     key <AD09> { [ hebrew_zain                                                      ] }; // Zayin
     key <AD10> { [ UFB44,           UFB43                                           ] }; // Pay + Final Pay (Dagesh)
 
-    // Non-alphanumeric keys
+    // non-alphanumeric keys
     key <BKSL> { [ U2E17,           U05F3                                           ] }; // Double Oblique Hyphen + Geresh
     key <LSGT> { [ less,            greater                                         ] }; // Less + Greater
     key <AB08> { [ comma,           semicolon                                       ] }; // Comma + Semicolon
@@ -55,7 +55,7 @@ xkb_symbols "yiddish" {
     key <AD11> { [ plus,            asterisk                                        ] }; // Plus + Asterisk
     key <AD12> { [ asciicircum,     degree                                          ] }; // Circumflex + Degree
 
-    // Top (digits) row
+    // top (digits) row
     key <TLDE> { [ U05BF,           U05BC                                           ] }; // Rafe + Dagesh
     key <AE01> { [     1,           exclam                                          ] }; // 1 + Exclamation Mark
     key <AE02> { [     2,           quotedbl,               at                      ] }; // 2 + Quotes + At-Sign
