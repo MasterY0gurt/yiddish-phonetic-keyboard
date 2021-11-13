@@ -8,8 +8,10 @@ $ cd yiddish-phonetic-keyboard
 
 $ cd Linux
 
-With bash shell: 
+With bash shell:
+
 sudo ./install.sh
 
 With other shell:
+
 sudo bash ./install.sh
