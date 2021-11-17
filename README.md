@@ -5,10 +5,10 @@ This is a keyboard layout targeted at a broader width of people speaking and typ
 ![Normal Mode](https://github.com/MasterY0gurt/yiddish-phonetic-keyboard/blob/main/images/yi_pho.jpg?raw=true)
 Normal Mode
 
-![Shift](https://github.com/MasterY0gurt/yiddish-phonetic-keyboard/blob/main/images/yi_phoSHFT.jpg?raw=true)
+![Shift](https://github.com/MasterY0gurt/yiddish-phonetic-keyboard/blob/main/images/yi_phoShft.jpg?raw=true)
 Shift Key Pressed
 
-![AltGr](https://github.com/MasterY0gurt/yiddish-phonetic-keyboard/blob/main/images/yi_phAltGRo.jpg?raw=true)
+![AltGr](https://github.com/MasterY0gurt/yiddish-phonetic-keyboard/blob/main/images/yi_phoAltGr.jpg?raw=true)
 AltGR Key Pressed
 
 
