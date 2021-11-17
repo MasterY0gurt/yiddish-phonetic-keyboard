@@ -45,7 +45,7 @@ xkb_symbols "yiddish" {
     key <AD10> { [ UFB44,           UFB43,                  U05BB                   ] }; // Pay + Final Pay (Dagesh) + Kubutz
 
     // Non-alphanumeric keys
-    key <BKSL> { [ U2E17,           U05F3                                           ] }; // Double Oblique Hyphen + Geresh
+    key <BKSL> { [ U2E17,           U05F4,                  U05F3                   ] }; // Geresh + Gershayim + Double Oblique Hyphen
     key <LSGT> { [ less,            greater                                         ] }; // Less + Greater
     key <AB08> { [ comma,           semicolon                                       ] }; // Comma + Semicolon
     key <AB09> { [ period,          colon                                           ] }; // Period + Colon
