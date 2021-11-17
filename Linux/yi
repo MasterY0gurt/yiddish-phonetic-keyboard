@@ -33,16 +33,16 @@ xkb_symbols "yiddish" {
 
 
     // high letter row
-    key <AD01> { [ hebrew_shin,     UFB2B                                           ] }; // Shin + Sin
-    key <AD02> { [ U05F0                                                            ] }; // Yiddish Double Vav
-    key <AD03> { [ hebrew_ayin                                                      ] }; // Ayin
-    key <AD04> { [ hebrew_resh                                                      ] }; // Resh
-    key <AD05> { [ hebrew_tet                                                       ] }; // Tet
-    key <AD06> { [ hebrew_zade,     hebrew_finalzade                                ] }; // Zade
-    key <AD07> { [ hebrew_waw,      UFB35                                           ] }; // Vav + Vav (Dagesh)
-    key <AD08> { [ hebrew_yod,      UFB1D                                           ] }; // Yod + Chiriq Yod
-    key <AD09> { [ hebrew_zain                                                      ] }; // Zayin
-    key <AD10> { [ UFB44,           UFB43                                           ] }; // Pay + Final Pay (Dagesh)
+    key <AD01> { [ hebrew_shin,     UFB2B,                  UFB2A                   ] }; // Shin + Sin dot (left) + Shin dot (right)
+    key <AD02> { [ U05F0,           VoidSymbol,             U05B0                   ] }; // Yiddish Double Vav + Sh'va
+    key <AD03> { [ hebrew_ayin,     VoidSymbol,             U05B1                   ] }; // Ayin + Reduced Segol
+    key <AD04> { [ hebrew_resh,     VoidSymbol,             U05B2                   ] }; // Resh + Reduced Patach
+    key <AD05> { [ hebrew_tet,      VoidSymbol,             U05B3                   ] }; // Tet + Reduced Kamatz
+    key <AD06> { [ hebrew_zade,     hebrew_finalzade,       U05B4                   ] }; // Zade + Final Zade + Hiriq
+    key <AD07> { [ hebrew_waw,      UFB35,                  U05B5                   ] }; // Vav + Vav (Shuruk) + Zeire
+    key <AD08> { [ hebrew_yod,      UFB1D,                  U05B6                   ] }; // Yod + Chiriq Yod + Segol
+    key <AD09> { [ hebrew_zain,     VoidSymbol,             U05B9                   ] }; // Zayin + Holam
+    key <AD10> { [ UFB44,           UFB43,                  U05BB                   ] }; // Pay + Final Pay (Dagesh) + Kubutz
 
     // Non-alphanumeric keys
     key <BKSL> { [ U2E17,           U05F3                                           ] }; // Double Oblique Hyphen + Geresh
@@ -60,13 +60,13 @@ xkb_symbols "yiddish" {
     key <AE01> { [     1,           exclam                                          ] }; // 1 + Exclamation Mark
     key <AE02> { [     2,           quotedbl,               at                      ] }; // 2 + Quotes + At-Sign
     key <AE03> { [     3,           section                                         ] }; // 3 + Section
-    key <AE04> { [     4,           dollar					    ] }; // 4 + Dollar + Shekel
+    key <AE04> { [     4,           dollar,                 U20AA                   ] }; // 4 + Dollar + Shekel
     key <AE05> { [     5,           percent                                         ] }; // 5 + Percent
     key <AE06> { [     6,           ampersand                                       ] }; // 6 + Ampersand
     key <AE07> { [     7,           asciitilde,             braceright              ] }; // 7 + Tilde + Braceright
     key <AE08> { [     8,           parenright,             bracketright            ] }; // 8 + Parenright + Bracketright
     key <AE09> { [     9,           parenleft,              bracketleft             ] }; // 9 + Parenleft + Bracketleft
     key <AE10> { [     0,           equal,                  braceleft               ] }; // 0 + Equal + Braceleft
-    key <AE11> { [ minus,           underscore                                      ] }; // Maqaf
-    key <AE12> { [ U05B7,           U05C7                                           ] }; // Patach + Kamatz
+    key <AE11> { [ minus,           underscore                                      ] }; // Minus + Underscore
+    key <AE12> { [ U05B7,           U05B8                                           ] }; // Patach + Kamatz
 };
