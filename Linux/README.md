@@ -16,4 +16,8 @@ With bash shell:
 
 With other shell:
 
-    sudo bash ./install.sh
+    # bash ./install.sh
+
+Update:
+
+    # ./update.sh
