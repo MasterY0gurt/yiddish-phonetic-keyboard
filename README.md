@@ -3,12 +3,15 @@
 This is a keyboard layout targeted at a broader width of people speaking and typing in Yiddish. It is a (semi-)phonetic Yiddish keyboard layout for Windows and Linux (and soon also macOS) based heavily on the german QWERTZ layout. This is due to the fact that Yiddish orthography is very similar to German orthography, resulting in a minimal amount of tweaking needed for a pleasant typing experience. 
 
 ![Normal Mode](https://github.com/MasterY0gurt/yiddish-phonetic-keyboard/blob/main/images/yi_pho.jpg?raw=true)
+
 Normal Mode
 
 ![Shift](https://github.com/MasterY0gurt/yiddish-phonetic-keyboard/blob/main/images/yi_phoShft.jpg?raw=true)
+
 Shift Key Pressed
 
 ![AltGr](https://github.com/MasterY0gurt/yiddish-phonetic-keyboard/blob/main/images/yi_phoAltGr.jpg?raw=true)
+
 AltGR Key Pressed
 
 
