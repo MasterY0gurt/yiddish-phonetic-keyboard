@@ -10,7 +10,7 @@ Installation:
 
 With bash shell:
 
-    sudo ./install.sh
+    # ./install.sh
 
 
 
