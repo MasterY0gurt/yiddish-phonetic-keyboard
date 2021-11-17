@@ -6,4 +6,3 @@ It tries to find a compromise between the orthography of the different dialects 
 
 # To-Do:
 - add macOS support
-- add full Niqqud-support
