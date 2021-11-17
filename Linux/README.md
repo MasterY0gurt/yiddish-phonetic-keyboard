@@ -18,6 +18,6 @@ With other shell:
 
     # bash ./install.sh
 
-Update:
+Update the layout:
 
     # ./update.sh
