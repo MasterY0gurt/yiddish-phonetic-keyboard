@@ -67,6 +67,6 @@ xkb_symbols "yiddish" {
     key <AE08> { [     8,           parenright,             bracketright            ] }; // 8 + Parenright + Bracketright
     key <AE09> { [     9,           parenleft,              bracketleft             ] }; // 9 + Parenleft + Bracketleft
     key <AE10> { [     0,           equal,                  braceleft               ] }; // 0 + Equal + Braceleft
-    key <AE11> { [ minus,           underscore                                      ] }; // Minus + Underscore
+    key <AE11> { [ minus,           underscore,             U05BE                   ] }; // Minus + Underscore + Maqaf
     key <AE12> { [ U05B7,           U05B8                                           ] }; // Patach + Kamatz
 };
